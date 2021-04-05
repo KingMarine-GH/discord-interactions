@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/KingMarine-GH/discord-interactions#readme",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "ws": "^7.4.4"
   },
   "devDependencies": {
     "eslint": "^7.23.0"
