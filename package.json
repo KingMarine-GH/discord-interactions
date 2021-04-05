@@ -1,6 +1,6 @@
 {
   "name": "@kingmarine/discord-interactions",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "JavaScript Library for Discord Interactions.",
   "main": "./src/client.js",
   "scripts": {
