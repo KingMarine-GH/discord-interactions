@@ -1,5 +1,5 @@
 {
-  "name": "discord-interactions",
+  "name": "@kingmarine/discord-interactions",
   "version": "0.0.1",
   "description": "JavaScript Library for Discord Interactions.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KingMarine-GH/discord-slash.git"
+    "url": "git+https://github.com/KingMarine-GH/discord-interactions.git"
   },
   "keywords": [
     "discord",
@@ -17,10 +17,11 @@
   "author": "KingMarine",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/KingMarine-GH/discord-slash/issues"
+    "url": "https://github.com/KingMarine-GH/discord-interactions/issues"
   },
-  "homepage": "https://github.com/KingMarine-GH/discord-slash#readme",
+  "homepage": "https://github.com/KingMarine-GH/discord-interactions#readme",
   "dependencies": {
     "axios": "^0.21.1"
-  }
+  },
+  "devDependencies": {}
 }
